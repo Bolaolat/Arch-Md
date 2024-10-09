@@ -3,7 +3,7 @@
 
 require("./all/module.js")
 
-global.owner = "2347036214381" //change
+global.owner = "2348131084833" //change
 global.botname = "𝑨𝒓𝒄𝒉 𝑴𝒅 𝑨𝒊"  //change
 global.ownername = "ᴇᴅɴᴜᴛ" //change
 global.simbol = "♘"
