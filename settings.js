@@ -3,16 +3,16 @@
 
 require("./all/module.js")
 
-global.owner = "2348131084833" //change
-global.botname = "𝑨𝒓𝒄𝒉 𝑴𝒅 𝑨𝒊"  //change
-global.ownername = "ᴇᴅɴᴜᴛ" //change
+global.owner = "2347041039367" //change
+global.botname = "😑"  //change
+global.ownername = "😑" //change
 global.simbol = "♘"
-global.footer = "`𝑮𝒉𝒂𝒔𝒕 𝑪𝒍𝒂𝒏 𝑮𝒓𝒆𝒚`" //Don't touch others
+global.footer = "`😑`" //Don't touch others
 
-global.ytchannel = "youtube.com/@Ednuthimself"
+global.ytchannel = ""
 
 global.idchannel = "120363297279563825@newsletter"
-global.linkgc = 'https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17'
+global.linkgc = ''
 
 global.packname = "Arch Development"
 global.author = "WhatsApp Bot"
