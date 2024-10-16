@@ -1,14 +1,14 @@
 <p align="center"> 
-<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/Mclaren-Ex"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=SUKUNA-+V1+by+Mclaren-Ex+2024+best+BUG-BOT.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
-<img src="https://files.catbox.moe/p2yazn.jpg" alt="ARCH-MD" width="800"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8aEr5V7xv09sYk4lp1ToF6rzkR41SGvtCQKuJxe24u_tQ3Qm9TaOxAw&s=10" alt="SUKUNA-V1" width="800"/>
 
 </p>
 
 <p align="center">
-<a href="#"><img title="ARCH-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="SUKUNA_V1-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 </p>
 
 <p align="center">   
@@ -18,11 +18,11 @@
 
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ednutmail@gmail.com)
-[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ednut_x)
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348102487241)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ednut001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mclarenololade1@gmail.com)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](_______)
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347041039367)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal)
 </div>
 
 ## [![Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17) 
@@ -31,16 +31,16 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Ednut001/Arch-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Mclaren-Ex/SUKUNA_V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Session ID 
    > if not generating code please use the second one or scan method
     
- <a href='https://ednut-tech-web.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ <a href='https://sukuna-tech-web.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  how to input session id tutorial 👇
  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](htt)
  
 ### 🟣 ARCH MD ON HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md-Heroku) 
